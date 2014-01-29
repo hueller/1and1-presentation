@@ -55,7 +55,7 @@
         <sv:value>hippo:harddocument</sv:value>
       </sv:property>
       <sv:property sv:name="jcr:uuid" sv:type="String">
-        <sv:value>1055b5ef-8719-4d4f-9066-e6697148b423</sv:value>
+        <sv:value>dfa771ac-4e87-4263-b22c-fe42e845fb93</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
         <sv:value>live</sv:value>
@@ -80,13 +80,13 @@
         <sv:value>2014-01-29T10:51:05.679Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-01-29T10:53:14.296Z</sv:value>
+        <sv:value>2014-01-29T13:37:02.150Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2014-01-29T10:53:17.017Z</sv:value>
+        <sv:value>2014-01-29T13:37:13.006Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>4fbfeb93-f82c-4c1e-9888-8b8f6e9bea12</sv:value>
@@ -155,6 +155,17 @@ faire Künstlerentlohnungen.&lt;/p&gt;
         <sv:property sv:name="myhippoproject:title" sv:type="String">
           <sv:value>Simfy</sv:value>
         </sv:property>
+        <sv:node sv:name="myhippoproject:image">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>6eacf27a-6f2a-4f83-bdde-718bbe2dcf33</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
       </sv:node>
       <sv:node sv:name="myhippoproject:hero">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
