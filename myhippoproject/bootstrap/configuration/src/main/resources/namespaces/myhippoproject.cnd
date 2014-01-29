@@ -16,6 +16,9 @@
 [myhippoproject:hero] > hippo:compound, hippostd:relaxed
   orderable
 
+[myhippoproject:mammidescription] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
+  orderable
+
 [myhippoproject:newsdocument] > hippostd:relaxed, myhippoproject:basedocument
   orderable
 

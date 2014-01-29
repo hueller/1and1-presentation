@@ -28,7 +28,7 @@
         <sv:value>hippo:harddocument</sv:value>
       </sv:property>
       <sv:property sv:name="jcr:uuid" sv:type="String">
-        <sv:value>8dc95d46-9b59-4290-ae29-d35c86a98cae</sv:value>
+        <sv:value>d466207a-7df8-43ea-a7ae-b900894dacf8</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
       <sv:property sv:name="hipposysedit:node" sv:type="Boolean">
@@ -102,7 +102,7 @@
           <sv:value>false</sv:value>
         </sv:property>
         <sv:property sv:name="hipposysedit:path" sv:type="String">
-          <sv:value>myhippoproject:hippo_mirror</sv:value>
+          <sv:value>myhippoproject:mammilink</sv:value>
         </sv:property>
         <sv:property sv:name="hipposysedit:primary" sv:type="Boolean">
           <sv:value>false</sv:value>
@@ -125,7 +125,7 @@
         <sv:value>hippo:harddocument</sv:value>
       </sv:property>
       <sv:property sv:name="jcr:uuid" sv:type="String">
-        <sv:value>669d2ed5-e4e5-4ed5-8a4b-2e635087b109</sv:value>
+        <sv:value>750a3d7f-2ed1-43d3-a08d-b88b8358f852</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
       <sv:property sv:name="hippostd:holder" sv:type="String">
@@ -205,7 +205,7 @@
           <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
         </sv:node>
       </sv:node>
-      <sv:node sv:name="myhippoproject:hippo_mirror">
+      <sv:node sv:name="myhippoproject:mammilink">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hippo:mirror</sv:value>
         </sv:property>
@@ -294,12 +294,12 @@
           </sv:property>
         </sv:node>
       </sv:node>
-      <sv:node sv:name="hippo_mirror">
+      <sv:node sv:name="mammilink">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>frontend:plugin</sv:value>
         </sv:property>
         <sv:property sv:name="caption" sv:type="String">
-          <sv:value>Produkt Beschreibung</sv:value>
+          <sv:value>Mammi Link</sv:value>
         </sv:property>
         <sv:property sv:name="field" sv:type="String">
           <sv:value>hippo_mirror</sv:value>

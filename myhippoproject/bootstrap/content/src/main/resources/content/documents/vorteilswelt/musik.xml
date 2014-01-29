@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="musik">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:harddocument</sv:value>
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>hippo:translated</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>9d84d807-a8b7-4cf1-81f6-dfcbaf0e6a64</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>a89badbb-f088-4592-a037-c40e098b71d0</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>de</sv:value>
+  </sv:property>
+  <sv:node sv:name="hippotranslation:translations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippotranslation:translations</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>Musik</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="simfy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:hardhandle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2b235ade-6066-48f5-9055-68255192e3f4</sv:value>
+    </sv:property>
+    <sv:node sv:name="simfy">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>myhippoproject:campaigndescription</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1055b5ef-8719-4d4f-9066-e6697148b423</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>musik/simfy</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:holder" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-01-29T10:51:05.679Z</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2014-01-29T10:53:14.296Z</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2014-01-29T10:53:17.017Z</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4fbfeb93-f82c-4c1e-9888-8b8f6e9bea12</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>de</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="myhippoproject:details">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:details</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:description" sv:type="String">
+          <sv:value>&lt;html&gt;
+&lt;body&gt;
+&lt;h2&gt;Das kann &lt;strong&gt;simfy!&lt;/strong&gt; &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h3&gt;Über 25 Millionen Songs &lt;/h3&gt;
+&lt;p&gt;Unser riesiger Musikkatalog wird täglich aktualisiert und wächst somit stetig
+weiter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Playlists und Favoriten &lt;/h3&gt;
+&lt;p&gt;Wir bieten dir Funktionen, mit denen du deine Lieblingsmusik individuell
+organisieren kannst.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Offline-Modus &lt;/h3&gt;
+&lt;p&gt;Wenn du dir deine Musik offline verfügbar machst, kannst du sie auch ohne
+Internetverbindung anhören.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Entdecke neue Musik &lt;/h3&gt;
+&lt;p&gt;Unsere Musikredaktion versorgt dich ständig mit aktuellen Songs und Alben,
+die zu dir passen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Mobile Apps &lt;/h3&gt;
+&lt;p&gt;Mit unseren Applikationen für iPhone/iPod touch, iPad, Android und BlackBerry
+hast du deine Musik auch unterwegs dabei.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Legale Musik &lt;/h3&gt;
+&lt;p&gt;Vereinbarungen mit Plattenfirmen garantieren dir 100% legalen Musikgenuss und
+faire Künstlerentlohnungen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Social-Modus &lt;/h3&gt;
+&lt;p&gt;Teile deine Lieblingssongs oder Playlists mit deinen Facebook-Freunden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;h3&gt;Jederzeit kündbar &lt;/h3&gt;
+&lt;p&gt;Keine versteckte Mindestlaufzeit. Du kannst jederzeit kündigen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:hot" sv:type="Boolean">
+          <sv:value>true</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:price" sv:type="Long">
+          <sv:value>0</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:teaser" sv:type="String">
+          <sv:value>Deine Musik - Immer und überall</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Simfy</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="myhippoproject:hero">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:hero</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:descriptio" sv:type="String">
+          <sv:value>Deine Musik. Immer und überall. 
+Mehr als 25 Mio. Songs.</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:imperative" sv:type="String">
+          <sv:value>jetzt kostenlos probieren</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>simfy</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:picture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>f06c4622-39ba-4e3a-9e40-40d69ef34ed8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="myhippoproject:mammilink">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:mirror</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>73e3605e-f5db-4b09-93d8-1b112aa281bd</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>

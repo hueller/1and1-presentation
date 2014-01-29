@@ -869,21 +869,77 @@
       <sv:value>34000.0</sv:value> 
     </sv:property> 
   </sv:node>  
-  <sv:node sv:name="myhippoproject-hippo-configuration-hippo-users-admin">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:initializeitem</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30000.3</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>configuration/users/admin.xml</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/hippo:configuration/hippo:users</sv:value>
-    </sv:property>
-  </sv:node>
-  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-productdescription">
+  <sv:node sv:name="myhippoproject-hippo-configuration-hippo-users-admin"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30000.3</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>configuration/users/admin.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/hippo:configuration/hippo:users</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-productdescription"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30052.0</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>namespaces/myhippoproject/productdescription.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/hippo:namespaces/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-campaigndescription"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30052.0</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>namespaces/myhippoproject/campaigndescription.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/hippo:namespaces/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-hero"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30052.0</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>namespaces/myhippoproject/hero.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/hippo:namespaces/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-details"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30052.0</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>namespaces/myhippoproject/details.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/hippo:namespaces/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-mammidescription">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippo:initializeitem</sv:value>
     </sv:property>
@@ -891,49 +947,7 @@
       <sv:value>30052.0</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>namespaces/myhippoproject/productdescription.xml</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/hippo:namespaces/myhippoproject</sv:value>
-    </sv:property>
-  </sv:node>
-  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-campaigndescription">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:initializeitem</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30052.0</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>namespaces/myhippoproject/campaigndescription.xml</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/hippo:namespaces/myhippoproject</sv:value>
-    </sv:property>
-  </sv:node>
-  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-hero">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:initializeitem</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30052.0</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>namespaces/myhippoproject/hero.xml</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/hippo:namespaces/myhippoproject</sv:value>
-    </sv:property>
-  </sv:node>
-  <sv:node sv:name="myhippoproject-hippo-namespaces-myhippoproject-details">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:initializeitem</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30052.0</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>namespaces/myhippoproject/details.xml</sv:value>
+      <sv:value>namespaces/myhippoproject/mammidescription.xml</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentroot" sv:type="String">
       <sv:value>/hippo:namespaces/myhippoproject</sv:value>

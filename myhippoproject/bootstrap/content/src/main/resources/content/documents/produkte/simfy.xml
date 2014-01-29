@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="simfy">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippo:handle</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:hardhandle</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>73e3605e-f5db-4b09-93d8-1b112aa281bd</sv:value>
+  </sv:property>
+  <sv:node sv:name="simfy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>myhippoproject:mammidescription</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>60b64c4a-05e8-4196-9f35-c162173dca90</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+      <sv:value>live</sv:value>
+      <sv:value>preview</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+      <sv:value>simfy</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:holder" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:state" sv:type="String">
+      <sv:value>published</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+      <sv:value>live</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:33:22.977Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:34:00.044Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:34:08.354Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>7559c261-b869-4809-9c74-d0a48fef053c</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>de</sv:value>
+    </sv:property>
+    <sv:property sv:name="myhippoproject:agbs" sv:type="String">
+      <sv:value>General Terms and Conditions
+
+Scope
+These General Terms and Conditions (T&amp;Cs) shall apply to all services that are offered on the websites (www.simfy.com and other URLs) as well as using the simfy applications for mobile and stationary terminals (websites and applications hereinafter referred to collectively as: the "music service"). Service provider and counterparty is simfy AG, Knesebeckstr. 95, 10623 Berlin (hereinafter referred to as: "simfy"). Further information on simfy can be taken from the legal notice.
+By using the music service, in any case at the latest upon completion of registration as stipulated in section 3 of these T&amp;Cs, the user acknowledges the validity of these T&amp;Cs.
+With regard to the use of the applications for mobile and stationary terminals provided by simfy, these T&amp;Cs shall also apply and may be (if applicable) supplemented by further provisions of the respective applications (e.g. End User License Agreement (EULA), etc.).
+
+Overview of the services provided by simfy
+Through the music service, simfy provides access to the repertoire of different music labels etc. as well as an opportunity to communicate with other users. In that connection, a distinction is drawn between "Guests", "Registered Users" and "Subscribers". "Guests" are unregistered users of the music service. "Registered Users" are such users of the music service who have completed the registration process as stipulated in section 3 of these T&amp;Cs. "Subscribers" are such users of the music service who have registered for the fee‑based section of the music service as stipulated in section 6. In order to use the music service, the user is required to fulfil the necessary technical requirements on his own account. He himself shall bear the costs of access to the internet as well as any possible connection costs incurred. Said costs are not included in the services provided by the music service. Should the technical standards in the internet or music service change, the user shall adapt to said changes on his own account.
+Registration
+Prior registration is required in order to able to use all functions of the music service. To this end, the user is required to enter a user name, a valid email address and a personally selected password as well as agree to the validity of these T&amp;Cs and the data protection statement.
+Once registration has been successfully completed, the user shall have the option of using the music service via the login area of the websites or the applications; to this end, the email address and the password selected by the user are required to be entered.
+simfy shall be entitled to prohibit users from registering without stating reasons.
+
+User account
+After registration and activation, user shall be provided with a user account (hereinafter referred to as "account").
+Under the menu "My simfy – Settings", the user may enter personal data which may be viewed by guests and users provided they are enabled to do so. All data provided by the user in connection herewith shall be voluntary, but is required to truthful.
+The user may also include a profile photo in his account which is then visible on the account. In this respect, the "obligations on the part of the user" noted under section 10 shall be observed.
+The user may adjust the release of information on his account at any time under "Security &amp; Privacy".
+
+Free area of the music service
+simfy shall make parts of the music service available to guests and registered users free of charge. This happens on the basis of the relevant actual status. simfy shall explicitly reserve the right to change, restrict and fully suspend the scope of music services in the free area – on a temporary or permanent basis – at any time exclusively at its own discretion.
+Guests and registered users are aware that the free area of the music service is financed by advertising and they therefore agree that advertising and other information may be displayed, played, etc. as part of the music service. They then know and accept that the bandwidth and/or other resources of the terminals installed by them to use the music service may be used to this end.
+Fee-based area (for subscribers)
+The fee‑based area (hereinafter referred to as "Premium Area") of the music service is against payment and requires that the user also register as a Premium User or Premium Plus User (hereinafter collectively referred to as "Subscriber") as well as the possible disclosure of payment information. Registration in the premium area shall be granted only to those users who are able to conduct business without any restrictions and the legal representative has granted his consent to conclusion of the contract with simfy.
+For the purpose of registering in the premium area, it is necessary that the user specify personal data (such as his full name as well as his address), inter alia, and confirm said information. It is necessary that the information provided be truthful. The registration process is completed once the information is confirmed.
+After registration has been completed, the user submits a binding offer to use the services and capacity of the music service against payment. simfy shall accept this offer within 5 days by activating the user's profile for the premium area and a corresponding contractual relationship including a payment obligation shall originate between the user and simfy.
+The current range of additional services of the music service shall be made available to the subscriber. The subscriber may obtain details on the functions as well as their availability and any enhancements and modifications at any time from the premium area of the simfy website.
+The term of the fee‑based use of the premium area depends on the package selected by the subscriber (e.g. 30 days) and shall begin upon clearance by simfy. If the subscription is not cancelled, the period of use shall be automatically extended in each case by a further period of use, the term of which corresponds to the preceding period of use. The fee involved shall be due in the full amount at the start of the relevant period of use. Should simfy provide the subscriber with a free period of use (such as at the start of the subscription), all rights and obligations under these T&amp;CS except for the requirement to pay fees, shall also apply within such period. simfy is not obliged to provide free periods of use.
+All fees specified shall be subject to value‑added tax at the applicable rate. The fees shall be paid in advance by means of the payment procedures specified in the premium area (e.g. credit card, debit, etc.). simfy may remit the user invoices and payment reminders via email or online invoice. Where costs accrue to simfy due to reversals, costs not adequately covered and so on, the user shall bear such costs, insofar as he is responsible for these.
+Prices
+simfy shall reserve the right to alter the prices for the services provided by the music service from time to time at its own discretion.
+The registered users/subscribers shall be notified of any price changes.
+Where the registered user/subscriber does not wish to be subject to the changed price, he shall be entitled to cancel his subscription as stipulated in section 17 of these T&amp;Cs.
+Customer service In case of questions and/or problems relating to the music service, users (guests, registered users and subscribers) may contact customer service via the simfy website.
+Right of withdrawal Insofar as the user registers in the premium area of the music service for a purpose which cannot be attributed to neither his commercial nor freelance occupational activity, the following provisions shall apply to him as a consumer within the meaning of the law (§ 13 of the German Civil Code):
+Right of withdrawal The user shall have the right to withdraw his order in writing within two weeks without stating the reasons (e.g. letter, fax, e‑mail). The period of withdrawal shall begin the day after receipt of said notification in writing, but in any case not before the conclusion of the contract and also not before discharge of the information obligations on the part of simfy pursuant to Article 246 § 2 of the Introductory Act to the German Civil Code (EGBGB) in conjunction with § 1 Paras. 1 and 2 EGBGB, as well the obligations on the part of simfy pursuant to § 312g Para. 1 Sentence 1 German Civil Code (BGB) in conjunction with Article 246 § 3 EGBGB. The withdrawal period shall be deemed observed if notice of withdrawal is sent within this period.
+simfy AG
+Knesebeckstr. 95
+10623 Berlin
+Fax: +49 (0)30 896 559 78
+Email: support@simfy.com
+Consequences of withdrawal In the event of an effective withdrawal, the services received by either party shall be returned and any applicable benefits (e. g. interest) shall be issued. Where the user is not able to return the service received in whole or in part, or only in worse condition, he may be obliged in this respect to compensate simfy for lost value. This can mean that the user shall be required to make payment per this contract for the period up to withdrawal. Obligations to refund payments shall be discharged within 30 days. The period of withdrawal shall begin for the customer upon dispatch of his notification of withdrawal, for simfy upon receipt thereof.
+Special notice: The right of withdrawal shall become void in advance if the agreement has been implemented in full by both parties at their express request, before they have exercised their right of withdrawal.
+END OF THE RIGHT OF WITHDRAWAL
+Obligations on the part of the user
+A user account is not transferable and may be used only by the user in whose name it has been set up. Passwords must be stored securely and protected from abuse. The user shall be liable for any damage caused by passwords and access details being forwarded to, or negligently falling into the hands of, third parties.
+When inserting a profile photo, the user is obliged to ensure that he is allowed to display the photos publicly, that the photos do not contain references to logos, brands or other commercial references to companies and the image on the photo does not breach the current legal requirements or third‑party rights.
+Before links are set, the linked contents are required to be checked for breaches of legislation. Linking to illegal sites, notably those with extremist, seditious or offensive content is impermissible. simfy distances itself explicitly from linked content and does not assume liability therefor. The operators of third‑party websites shall be exclusively responsible for the content of said websites.
+Users are prohibited from abusing the music service. Misuse occurs in particular if, via the music service,
+data is changed, deleted, suppressed or rendered unusable without permission,
+material of unconstitutional organisations or unconstitutional, notably racist ideology is disseminated,
+pornography is disseminated,
+offences against personal honour, notably insults or defamation are committed,
+there are breaches of statutory provisions (e.g. Criminal Code, Youth Protection Act, Data Protection Act, Copyright Act, Act Against Unfair Competition or Trademark Act) or breaches of these T&amp;Cs.
+The following activities of users, guests and other third‑parties shall also be prohibited:
+Commercial use of services and content of the music service.
+Use of mechanisms, software or scripts in connection with the use of the music service capable of affecting the operation of applications provided by simfy.
+Blocking, overwriting, modifying, copying, unless required for the proper use of the services of the simfy websites. Copying by means of robot/crawler search engine technologies shall therefore be explicitly prohibited.
+Changing the source code or other constituents of the music service.
+The use of software and other resources not provided by simfy in order to permanently store, change, copy or use in any other illegal manner the contents provided.
+The dissemination and communication to the public of the contents of the music service.
+Any activity capable of affecting the functionality of the music service's infrastructure, notably placing an excessive burden on it.
+Users in breach of these T&amp;Cs may be excluded from using the music service on a temporary or permanent basis.
+
+Intellectual property The user is aware and acknowledges that simfy is entitled to the intellectual property of the music service as well as all related applications, websites and other content. The user guarantees not to cause any damage whatsoever to such intellectual property.
+
+Data protection simfy is aware of the sensitivity of the user's data and therefore places particular emphasis on the security thereof. The user, notably the registered user and the subscriber know and accept that simfy shall be entitled to store and process personal data as well as data relating to his use of the music service in order to honour and respect simfy's obligations relating to settlement vis‑à‑vis licensers as well as to be able to carry out the billing and processing of this agreement. simfy also refers to the individual provisions of the data protection statement which is regulated separately.
+
+Assignability
+simfy may assign the agreement and the rights of simfy associated with the agreement vis‑à‑vis the registered user or subscriber to third parties. The registered user or subscriber shall not be allowed to assign the agreement or the rights associated with the agreement to third parties.
+
+Indemnification
+The user shall indemnify simfy against all claims, including claims for damages, which other users or other third parties lodge against simfy due to the breach of their rights as a result of the content uploaded or generated by the user in his account with the music service or other uses of the applications and services of the music service by the user, in particular where the obligations arising from section 10 are breached. The user shall accept all reasonable costs incurred by simfy due to a breach of third‑party rights including the reasonable costs incurred for legal defence. Any additional rights as well as claims for damages by simfy shall remain unaffected.
+The above obligations on the part of the user shall not apply insofar as the user is not responsible for the relevant breach. The user shall be responsible for negligence and intent.
+Where third‑party rights are violated as a result of the user using the music service, the user shall upon request by simfy immediately cease illegal use or use contrary to contract.
+
+Liability of simfy simfy shall be liable without limitation towards users for damage arising from breach to life, limb or health due to deliberate or negligent breach of obligation as well as for other damage due to deliberate or grossly negligent breach of obligation. For damage arising from simple negligence, simfy shall be liable only in case of breach of material contractual obligations and only in the amount of the foreseeable damage typical of this type of agreement.
+
+Availability of the music service The user acknowledges that the music service, for technical reasons, cannot always be fully available, above all because of potentially necessary maintenance and security activities as well as events that are not under simfy's control. Likewise, simfy is not able to provide a complete technical guarantee in respect of the storage and public communication of the music files uploaded by users. simfy shall not be liable for damage arising in this regard.
+
+Cancellation / Deleting of Account
+The free account may be deleted once again by the registered user at any time and without stating the reasons, using the function provided in the account settings. This shall result in the irrevocable deletion of all of the user's data including profile photo, uploaded music and playlists by simfy. In this regard, the user shall not have the right to enforce rights vis‑à‑vis simfy.
+simfy may also cancel the registered user's free account at any time without stating reasons, with or without providing a prior notification or statement. Likewise, individual content uploaded by the user may be removed at any time, if there is reasonable suspicion that the law has been violated.
+The subscriber may cancel the subscription at any time within the relevant period of use without stating the reasons, using the function set up for that purpose in the premium area or by email to support@simfy.com. The username and the email address specified at the time of registration as a user are required to be provided in the email. The termination of the contract becomes effective at the end of the current usage period. Even after cancelling the premium area registration, the user may further access the free functions of the music services via his account. The right to extraordinary termination for good cause shall be reserved for either party. For simfy good cause exists in particular, if the user breaches the obligations set out in section 10.
+
+Unlawful content / reporting
+simfy distances itself explicitly from illegal, in particular right‑wing extremist, extremist, pornographic, seditious or offensive content.
+Where simfy, despite careful monitoring, has not detected such content due to the amount of content which is supplied to it by third parties, simfy requests that guests and users who come across such illegal content notify simfy, disclosing as much accurate information where possible in writing (letter, fax, email), thereby allowing the content concerned to be identified (e.g. artist, song title, length etc.), so that a review and deletion may ensue as the case may be.
+
+German version authoritative
+In case of translation of these T&amp;Cs into other languages and a discrepancy between the German version and the translated version, the German version shall be authoritative as far as the discrepancy is concerned.
+
+Final provisions
+simfy shall reserve the right to amend these T&amp;Cs at any time without stating the reasons, unless the user cannot be reasonably expected to accept said amendments. simfy shall notify the user of the amendments to the T&amp;Cs in good time. If the user does not object to the validity of the new T&amp;Cs within two (2) weeks after the notification, the amended T&amp;Cs shall be construed as accepted by the user. In the event of an objection being raised by the user, simfy shall be entitled to terminate the account of the user, and as the case may be, including the agreement for the premium area, without notice.
+Should one or more of the provisions of these T&amp;Cs be or become ineffective, this shall not affect the validity of the remaining provisions. The parties hereto undertake to replace the invalid provision with such valid provision that comes closest to the economic spirit and purpose intended by the invalid provision. The same applies to contractual lacunae mutatis mutandis.
+The place of performance and venue (insofar as legally permissible) is the domicile of simfy.
+German law to the exclusion of international private law and the UN Convention on Contracts for the International Sale of Goods incorporated into German law shall apply.
+© 2012 simfy. All rights reserved. Version: 17. July 2012</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>

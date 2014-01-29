@@ -1,82 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:ae="http://www.onehippo.org/jcr/autoexport/1.0" sv:name="hippo:initialize" ae:id="myhippoproject">
-  <sv:property sv:name="jcr:primaryType" sv:type="Name">
-    <sv:value>hippo:initializefolder</sv:value>
-  </sv:property>
-
-  <sv:node sv:name="myhippoproject-content">
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:ae="http://www.onehippo.org/jcr/autoexport/1.0" sv:name="hippo:initialize" ae:id="myhippoproject">  
+  <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+    <sv:value>hippo:initializefolder</sv:value> 
+  </sv:property>  
+  <sv:node sv:name="myhippoproject-content"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30053</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>content.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <!-- Content -->  
+  <sv:node sv:name="myhippoproject-documents"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30400</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>content/documents/myhippoproject.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/content/documents</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-common"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30404</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>content/documents/myhippoproject/common.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/content/documents/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-news"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30404.1</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>content/documents/myhippoproject/news.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/content/documents/myhippoproject</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <!-- Gallery -->  
+  <sv:node sv:name="myhippoproject-gallery"> 
+    <sv:property sv:name="jcr:primaryType" sv:type="Name"> 
+      <sv:value>hippo:initializeitem</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:sequence" sv:type="Double"> 
+      <sv:value>30500</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentresource" sv:type="String"> 
+      <sv:value>content/gallery/myhippoproject.xml</sv:value> 
+    </sv:property>  
+    <sv:property sv:name="hippo:contentroot" sv:type="String"> 
+      <sv:value>/content/gallery</sv:value> 
+    </sv:property> 
+  </sv:node>  
+  <sv:node sv:name="myhippoproject-content-documents-vorteilswelt">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippo:initializeitem</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30053</sv:value>
+      <sv:value>30054.0</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>content.xml</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/</sv:value>
-    </sv:property>
-  </sv:node>
-
-  <!-- Content -->
-  <sv:node sv:name="myhippoproject-documents">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:initializeitem</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30400</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>content/documents/myhippoproject.xml</sv:value>
+      <sv:value>content/documents/vorteilswelt.xml</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentroot" sv:type="String">
       <sv:value>/content/documents</sv:value>
     </sv:property>
   </sv:node>
-  <sv:node sv:name="myhippoproject-common">
+  <sv:node sv:name="myhippoproject-content-documents-vorteilswelt-hippotranslation-translations">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippo:initializeitem</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30404</sv:value>
+      <sv:value>30055.0</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>content/documents/myhippoproject/common.xml</sv:value>
+      <sv:value>content/documents/vorteilswelt/translations.xml</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/content/documents/myhippoproject</sv:value>
+      <sv:value>/content/documents/vorteilswelt</sv:value>
     </sv:property>
   </sv:node>
-  <sv:node sv:name="myhippoproject-news">
+  <sv:node sv:name="myhippoproject-content-documents-produkte-hippo-translation">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippo:initializeitem</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30404.1</sv:value>
+      <sv:value>30055.0</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>content/documents/myhippoproject/news.xml</sv:value>
+      <sv:value>content/documents/produkte/translation.xml</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentroot" sv:type="String">
-      <sv:value>/content/documents/myhippoproject</sv:value>
+      <sv:value>/content/documents/produkte</sv:value>
     </sv:property>
   </sv:node>
-
-  <!-- Gallery -->
-  <sv:node sv:name="myhippoproject-gallery">
+  <sv:node sv:name="myhippoproject-content-documents-produkte">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippo:initializeitem</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:sequence" sv:type="Double">
-      <sv:value>30500</sv:value>
+      <sv:value>30054.0</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentresource" sv:type="String">
-      <sv:value>content/gallery/myhippoproject.xml</sv:value>
+      <sv:value>content/documents/produkte.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-documents-produkte-hippotranslation-translations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/documents/produkte/translations.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents/produkte</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-documents-vorteilswelt-hippo-translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/documents/vorteilswelt/translation.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents/vorteilswelt</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-documents-produkte-simfy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/documents/produkte/simfy.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents/produkte</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-documents-produkte-tree-of-tea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/documents/produkte/tree-of-tea.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents/produkte</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-gallery-vorteilswelt">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30054.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/gallery/vorteilswelt.xml</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:contentroot" sv:type="String">
       <sv:value>/content/gallery</sv:value>
     </sv:property>
   </sv:node>
-
+  <sv:node sv:name="myhippoproject-content-gallery-vorteilswelt-simfy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/gallery/vorteilswelt/simfy.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/gallery/vorteilswelt</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-gallery-vorteilswelt-tree-of-tea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/gallery/vorteilswelt/tree-of-tea.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/gallery/vorteilswelt</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="myhippoproject-content-documents-vorteilswelt-musik">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30055.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>content/documents/vorteilswelt/musik.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/content/documents/vorteilswelt</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>

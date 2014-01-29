@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="tree-of-tea">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippo:handle</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:hardhandle</sv:value>
+    <sv:value>hippo:translated</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>0305d592-6e5a-40b5-8ad2-5d0cf2e06bd5</sv:value>
+  </sv:property>
+  <sv:node sv:name="tree-of-tea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>myhippoproject:mammidescription</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>81fb1fc5-9b96-408a-9d5a-e10309ed4c47</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+      <sv:value>live</sv:value>
+      <sv:value>preview</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+      <sv:value>tree-of-tea</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:holder" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:state" sv:type="String">
+      <sv:value>published</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+      <sv:value>live</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:41:21.399Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:41:27.241Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+      <sv:value>2014-01-29T10:43:52.418Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>8897bccc-d357-4545-9cbc-1e215cf254cb</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>de</sv:value>
+    </sv:property>
+    <sv:property sv:name="myhippoproject:agbs" sv:type="String">
+      <sv:value>Spielregeln von Tree of Tea
+Die Allgemeinen Geschäftsbedingungen der mymuesli GmbH für das Projekt Tree ofTea:
+ 
+§1 Allgemeines, Geltungsbereich
+ 
+Die folgenden Allgemeinen Geschäftsbedingungen regeln das Vertragsverhältnis zwischen der mymuesli GmbH mit dem Projekt Tree of Tea (nachfolgend Tree of Tea) und dem Besteller in ihrer zur Zeit der Bestellung gültigen Fassung. Sie gelten für alle Lieferungen innerhalb der Bundesrepublik Deutschland und Österreich.
+ 
+§2 Vertragsschluss, Kaufpreiszahlung und Verzug des Bestellers
+ 
+1. Das Angebot von Tree of Tea im Internet und auf den von ihr betriebenen Internetseiten stellt lediglich eine unverbindliche Aufforderung an den Besteller dar, ein Angebot abzugeben.
+ 
+2. Nach Abgabe seiner Bestellung durch Klick auf den Button "Kaufen" und damit der Abgabe eines Angebots auf Vertragsschluss erhält der Besteller eine Auftragsbestätigung an die von ihm angegebene E-Mail-Adresse zugesandt. Diese stellt die Annahme des Vertrages durch die mymuesli GmbH dar.
+ 
+3. Die Zahlung der Waren erfolgt per Vorkasse d.h. Überweisung des Gesamtbetrages (errechnet aus dem angegebenen Kaufpreis zuzüglich der anfallenden Versandkosten) auf das Konto von Tree of Tea:
+ 
+Tree of Tea
+Commerzbank Passau
+Konto-Nr.: 0778892709
+BLZ: 70080000
+IBAN: DE26700800000778892709
+BIC: COBADEFF700
+ 
+Nach Vertragsschluss verpflichtet sich der Besteller, sofort den Gesamtbetrag auf das Konto von Tree of Tea zu überweisen.
+ 
+4. Der Kaufpreis ist während des Zahlungsverzugs des Bestellers zu verzinsen. Der Verzugszinssatz beträgt für das Jahr fünf Prozentpunkte über dem Basiszinssatz.
+ 
+5. Ferner ist Tree of Tea bereit, Gutschriften auf dem PayPal-Konto von Tree-of-Tea erfüllungshalber (§364 II BGB) zu akzeptieren (Anbieter ist PayPal (Europe) S.à r.l. &amp; Cie, S.C.A., 5. Etage, 22-24 Boulevard Royal, L-2449, Luxemburg). Die Vertragsbeziehungen zwischen PayPal und seinen Kunden richten sich ausschließlich nach den Nutzungsbedingungen von PayPal.
+ 
+6. Auch akzeptieren wir Zahlungen, die auf unserer Webseite im elektronischen Lastschriftverfahren (Bankeinzug) oder per Kreditkarte abgewickelt werden.
+ 
+§3 Lieferung
+1. Die Lieferung erfolgt durch Sendung des Kaufgegenstandes an die vom Käufer elektronisch mitgeteilte Adresse. 
+
+2. Die Lieferung erfolgt ausdrücklich erst nach Zahlungseingang des Gesamtbetrages auf dem unter §2 angegebenen Konto oder bei Gutschriften im Sinne von §2 Nr. 5 und Nr. 6 dieser AGB. In der Regel erfolgt die Lieferung schnellstmöglich nach Geldeingang. 
+
+3. Doch nicht alle Artikel sind immer sofort lieferbar und auf Lager, Tree of Tea ist natürlich bemüht, dem Besteller so schnell als möglich zu seiner Ware zu verhelfen. Doch sind Lieferfristen nur dann verbindlich, sofern sie schriftlich vereinbart oder von Tree of Tea zugesagt und bestätigt wurden. Bei höherer Gewalt oder unrichtiger bzw. nicht richtiger Selbstbelieferung von Tree of Tea können sich Lieferfristen verlängern.
+ 
+§4 Rücktrittsrecht
+
+ Soweit nach Vertragsschluss einer der nachfolgend aufgeführten sachlichen Gründe besteht, ist Tree of Tea zum sofortigen Rücktritt vom Vertrag mit dem Besteller berechtigt: 
+
+1. Bei höherer Gewalt und Rohstoffmängeln.
+
+2. Bei unrichtiger oder nicht rechtzeitiger Selbstbelieferung. Dies gilt nicht bei von Tree of Tea schuldhaft herbeigeführter Nichtbelieferung. Tree of Tea verpflichtet sich, den Besteller über die Nichtverfügbarkeit der Leistung nach Möglichkeit unverzüglich zu informieren. Bereits ausgetauschte Leistungen, insbesondere ein bereits vom Besteller bezahlter Gesamtpreis, werden unverzüglich erstattet.
+§5 Mängelhaftung
+1. Im Falle eines Mangels gelten die gesetzlichen Vorschriften. Tree of Tea haftet nicht für weitere Schäden, die dem Besteller durch die mangelhafte Lieferung entstehen.
+2. Dieser Haftungsausschluss gilt nicht für Schäden aus der Verletzung von Leben, Körper oder Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung von Tree of Tea beruhen oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung ihrer gesetzlichen Vertreters oder Erfüllungsgehilfen.
+3. Dieser Haftungsausschluss gilt ferner nicht für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung von Tree of Tea oder auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung eines ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen.
+ 
+§6 Eigentumsvorbehalt
+
+Die Ware bleibt bis zur vollständigen Bezahlung Eigentum von Tree of Tea.
+§7 Aufrechnung
+
+Ein Recht zur Aufrechnung steht dem Besteller nur zu, wenn seine Gegenansprüche rechtskräftig festgestellt oder von Tree of Tea anerkannt sind.
+ 
+§8 Widerrufsrecht und Widerrufsbelehrung
+  
+Widerrufsrecht
+
+Sie können als Kunde von Tree of Tea die Vertragserklärung innerhalb eines Monats ohne Angabe von Gründen in Textform (z.B. Brief, Fax, E-Mail) oder - wenn die Sache vor Fristablauf überlassen wurde - durch Rücksendung der Sache widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform, jedoch nicht vor Eingang der Ware beim Empfänger und auch nicht vor Erfüllung unserer Informationspflichten gemäß § 312 c Abs. 2 BGB in Verbindung mit § 1 Abs.1, 2 und 4 BGB - InfoV sowie unserer Pflichten gemäß § 312 e, Abs. 1 Satz 1 BGB in Verbindung mit § 3 BGB - InfoV. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufes oder der Sache. 
+Der Widerruf ist zu richten an:
+Tree of Tea
+c/o mymuesli GmbH
+Sailerwöhr 16
+94032 Passau
+ 
+Widerrufsfolgen
+Im Fall eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren und ggf. gezogene Nutzungen (z.B. Zinsen) herauszugeben. Können Sie uns die empfangene Leistung ganz oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren, müssen Sie uns insoweit ggf. Wertersatz leisten. Bei der Überlassung von Sachen gilt dies nicht, wenn die Verschlechterung der Sache ausschließlich auf deren Prüfung - wie sie Ihnen beispielsweise im Ladengeschäft möglich gewesen wäre - zurückzuführen ist. Im Übrigen können Sie die Pflicht zum Wertersatz für eine durch die bestimmungsgemäße Ingebrauchnahme der Sache entstandene Verschlechterung vermeiden, indem Sie die Sache nicht wie Ihr Eigentum in Gebrauch nehmen und alles unterlassen, was deren Wert beeinträchtigt. Paketversandfähige Sachen sind auf unsere Gefahr zurückzusenden. Sie haben die Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht und wenn der Preis der zurückzusendenden Sache einen Betrag von 40 € nicht übersteigt oder wenn Sie bei einem höheren Preis der Sache zum Zeitpunkt des Widerrufes noch nicht die Gegenleistung oder eine vertraglich vereinbarte Teilzahlung erbracht haben. Andernfalls ist die Rücksendung für Sie kostenfrei. Nichtpaketversandfähige Sachen werden bei Ihnen abgeholt. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung oder der Sache für uns mit deren Empfang.
+Ende der Widerrufsbelehrung
+ 
+§ 9 Gerichtsstand
+Ist der Kunde Kaufmann im Sinne des HGB oder juristische Person des öffentlichen Rechts so ist für alle Streitigkeiten aus diesem Vertragsverhältnis Gerichtsstand Passau.</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>tree of tea</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>
