@@ -6,7 +6,7 @@ import org.hippoecm.hst.content.beans.Node;
 import org.hippoecm.hst.content.beans.standard.HippoHtml;
 import org.hippoecm.hst.content.beans.standard.HippoGalleryImageSetBean;
 
-@Node(jcrType="myhippoproject:newsdocument")
+@Node(jcrType="myhippoproject:mammidescription")
 public class MammiDocument extends BaseDocument{
 
     public String getTitle() {

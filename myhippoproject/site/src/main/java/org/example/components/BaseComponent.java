@@ -2,12 +2,10 @@ package org.example.components;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
-
-import org.example.componentsinfo.GeneralListInfo;
-import org.example.componentsinfo.PageableListInfo;
 
 import org.apache.commons.lang.StringUtils;
+import org.example.componentsinfo.GeneralListInfo;
+import org.example.componentsinfo.PageableListInfo;
 import org.hippoecm.hst.component.support.bean.BaseHstComponent;
 import org.hippoecm.hst.content.beans.query.HstQuery;
 import org.hippoecm.hst.content.beans.query.HstQueryResult;
@@ -15,8 +13,8 @@ import org.hippoecm.hst.content.beans.query.exceptions.QueryException;
 import org.hippoecm.hst.content.beans.query.filter.Filter;
 import org.hippoecm.hst.content.beans.standard.HippoBean;
 import org.hippoecm.hst.core.component.HstComponentException;
-import org.hippoecm.hst.core.request.HstRequestContext;
 import org.hippoecm.hst.core.component.HstRequest;
+import org.hippoecm.hst.core.request.HstRequestContext;
 import org.hippoecm.hst.util.SearchInputParsingUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

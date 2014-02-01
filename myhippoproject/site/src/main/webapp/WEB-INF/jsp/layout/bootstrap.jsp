@@ -16,7 +16,7 @@
 <!-- Styles -->
 <!-- Bootstrap CSS -->
 <hst:link var="bootstrap_css" path="/css/bs/bootstrap.min.css" />
-<link href="${bootstrap_js}" rel="stylesheet">
+<link href="${bootstrap_css}" rel="stylesheet">
 <!-- Animate css -->
 <hst:link var="animate_css" path="/css/bs/animate.min.css" />
 <link href="${animate_css}" rel="stylesheet">
@@ -52,7 +52,7 @@
 	<script src="${bootstrap_js}"></script>
 	<!-- Dropdown menu -->
 	<hst:link var="ddlevelsmenu_js" path="/js/bs/ddlevelsmenu.js" />
-	<script src="${bootstrap_js}"></script>
+	<script src="${ddlevelsmenu_js}"></script>
 	<!-- CaroFredSel -->
 	<hst:link var="carouFredSel_js"
 		path="/js/bs/jquery.carouFredSel-6.2.1-packed.js" />

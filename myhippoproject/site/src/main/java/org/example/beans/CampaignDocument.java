@@ -2,7 +2,7 @@ package org.example.beans;
 
 import org.hippoecm.hst.content.beans.Node;
 
-@Node(jcrType="myhippoproject:campaigndocument")
+@Node(jcrType="myhippoproject:campaigndescription")
 public class CampaignDocument extends BaseDocument{
 
     public HeroCompound getHero() {

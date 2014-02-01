@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="musik">
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="kampagnen">
   <sv:property sv:name="jcr:primaryType" sv:type="Name">
     <sv:value>hippostd:folder</sv:value>
   </sv:property>
@@ -8,7 +8,7 @@
     <sv:value>hippo:translated</sv:value>
   </sv:property>
   <sv:property sv:name="jcr:uuid" sv:type="String">
-    <sv:value>9d84d807-a8b7-4cf1-81f6-dfcbaf0e6a64</sv:value>
+    <sv:value>b2066c30-f9fd-446c-935b-776309bc157a</sv:value>
   </sv:property>
   <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
   <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
@@ -16,7 +16,7 @@
     <sv:value>new-document</sv:value>
   </sv:property>
   <sv:property sv:name="hippotranslation:id" sv:type="String">
-    <sv:value>a89badbb-f088-4592-a037-c40e098b71d0</sv:value>
+    <sv:value>faf92812-15e3-4399-90ac-8f4c0d3449f4</sv:value>
   </sv:property>
   <sv:property sv:name="hippotranslation:locale" sv:type="String">
     <sv:value>de</sv:value>
@@ -34,7 +34,7 @@
       <sv:value/>
     </sv:property>
     <sv:property sv:name="hippo:message" sv:type="String">
-      <sv:value>Musik</sv:value>
+      <sv:value>Kampagnen</sv:value>
     </sv:property>
   </sv:node>
   <sv:node sv:name="simfy">
@@ -55,14 +55,14 @@
         <sv:value>hippo:harddocument</sv:value>
       </sv:property>
       <sv:property sv:name="jcr:uuid" sv:type="String">
-        <sv:value>dfa771ac-4e87-4263-b22c-fe42e845fb93</sv:value>
+        <sv:value>d32356ec-22d0-4c88-af55-c05ba1b17f3f</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
         <sv:value>live</sv:value>
         <sv:value>preview</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:related___pathreference" sv:type="String">
-        <sv:value>musik/simfy</sv:value>
+        <sv:value>kampagnen/simfy</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:holder" sv:type="String">
         <sv:value>admin</sv:value>
@@ -80,13 +80,13 @@
         <sv:value>2014-01-29T10:51:05.679Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-01-29T13:37:02.150Z</sv:value>
+        <sv:value>2014-02-01T20:54:20.809Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2014-01-29T13:37:13.006Z</sv:value>
+        <sv:value>2014-02-01T21:02:31.353Z</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>4fbfeb93-f82c-4c1e-9888-8b8f6e9bea12</sv:value>
