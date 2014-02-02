@@ -12,7 +12,7 @@ public class DetailsCompound extends HippoCompound{
 		return getProperty("myhippoproject:title");
 	}
 	
-	public Boolean isHot(){
+	public Boolean getHot(){
 		return getProperty("myhippoproject:hot");
 	}
 	
@@ -24,10 +24,6 @@ public class DetailsCompound extends HippoCompound{
         return getLinkedBean("myhippoproject:image", HippoGalleryImageSetBean.class);
     }
     
-    public Long getPrice(){
-    	return getProperty("myhippoproject:price");
-    }
-
     public String getTeaser(){
     	return getProperty("myhippoproject:teaser");
     }

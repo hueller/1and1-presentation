@@ -16,7 +16,7 @@
       <sv:value>hippo:harddocument</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>60b64c4a-05e8-4196-9f35-c162173dca90</sv:value>
+      <sv:value>482d7100-385a-4638-836b-f6986ca7febb</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
       <sv:value>live</sv:value>
@@ -41,13 +41,13 @@
       <sv:value>2014-01-29T10:33:22.977Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-      <sv:value>2014-01-29T10:34:00.044Z</sv:value>
+      <sv:value>2014-02-02T09:43:02.157Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-      <sv:value>2014-01-29T10:34:08.354Z</sv:value>
+      <sv:value>2014-02-02T09:43:05.061Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippotranslation:id" sv:type="String">
       <sv:value>7559c261-b869-4809-9c74-d0a48fef053c</sv:value>
@@ -155,6 +155,9 @@ Should one or more of the provisions of these T&amp;Cs be or become ineffective,
 The place of performance and venue (insofar as legally permissible) is the domicile of simfy.
 German law to the exclusion of international private law and the UN Convention on Contracts for the International Sale of Goods incorporated into German law shall apply.
 © 2012 simfy. All rights reserved. Version: 17. July 2012</sv:value>
+    </sv:property>
+    <sv:property sv:name="myhippoproject:price" sv:type="Long">
+      <sv:value>12</sv:value>
     </sv:property>
     <sv:node sv:name="hippotranslation:translations">
       <sv:property sv:name="jcr:primaryType" sv:type="Name">

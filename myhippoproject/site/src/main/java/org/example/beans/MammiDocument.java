@@ -9,30 +9,11 @@ import org.hippoecm.hst.content.beans.standard.HippoGalleryImageSetBean;
 @Node(jcrType="myhippoproject:mammidescription")
 public class MammiDocument extends BaseDocument{
 
-    public String getTitle() {
-        return getProperty("myhippoproject:title");
-    }
-    
-    public String getSummary() {
-        return getProperty("myhippoproject:summary");
-    }
-    
-    public Calendar getDate() {
-        return getProperty("myhippoproject:date");
+    public Long getPrice(){
+    	return getProperty("myhippoproject:price");
     }
 
-    public HippoHtml getHtml(){
-        return getHippoHtml("myhippoproject:body");    
-    }
 
-    /**
-     * Get the imageset of the newspage
-     *
-     * @return the imageset of the newspage
-     */
-    public HippoGalleryImageSetBean getImage() {
-        return getLinkedBean("myhippoproject:image", HippoGalleryImageSetBean.class);
-    }
 
 
 }

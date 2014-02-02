@@ -10,6 +10,9 @@
 [myhippoproject:campaigndescription] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
   orderable
 
+[myhippoproject:channeldescription] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
+  orderable
+
 [myhippoproject:details] > hippo:compound, hippostd:relaxed
   orderable
 

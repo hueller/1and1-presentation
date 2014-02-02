@@ -25,6 +25,7 @@ public class Overview extends BaseHstComponent {
         }
         request.setAttribute("document",doc);
         request.setAttribute("campaigns", doc.getChildBeans("myhippoproject:campaigndescription"));
+        request.setAttribute("description", doc.getChildBeans("myhippoproject:channeldescription"));
     }
 
 }

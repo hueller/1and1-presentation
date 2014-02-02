@@ -9,6 +9,17 @@
   <sv:property sv:name="jcr:uuid" sv:type="String">
     <sv:value>0305d592-6e5a-40b5-8ad2-5d0cf2e06bd5</sv:value>
   </sv:property>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>tree of tea</sv:value>
+    </sv:property>
+  </sv:node>
   <sv:node sv:name="tree-of-tea">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>myhippoproject:mammidescription</sv:value>
@@ -17,7 +28,7 @@
       <sv:value>hippo:harddocument</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>81fb1fc5-9b96-408a-9d5a-e10309ed4c47</sv:value>
+      <sv:value>75f4fe1d-6913-493d-b993-1e48639b40e3</sv:value>
     </sv:property>
     <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
       <sv:value>live</sv:value>
@@ -42,13 +53,13 @@
       <sv:value>2014-01-29T10:41:21.399Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-      <sv:value>2014-01-29T10:41:27.241Z</sv:value>
+      <sv:value>2014-02-02T09:34:20.378Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-      <sv:value>2014-01-29T10:43:52.418Z</sv:value>
+      <sv:value>2014-02-02T09:34:22.516Z</sv:value>
     </sv:property>
     <sv:property sv:name="hippotranslation:id" sv:type="String">
       <sv:value>8897bccc-d357-4545-9cbc-1e215cf254cb</sv:value>
@@ -131,21 +142,13 @@ Ende der Widerrufsbelehrung
 § 9 Gerichtsstand
 Ist der Kunde Kaufmann im Sinne des HGB oder juristische Person des öffentlichen Rechts so ist für alle Streitigkeiten aus diesem Vertragsverhältnis Gerichtsstand Passau.</sv:value>
     </sv:property>
+    <sv:property sv:name="myhippoproject:price" sv:type="Long">
+      <sv:value>18</sv:value>
+    </sv:property>
     <sv:node sv:name="hippotranslation:translations">
       <sv:property sv:name="jcr:primaryType" sv:type="Name">
         <sv:value>hippotranslation:translations</sv:value>
       </sv:property>
     </sv:node>
-  </sv:node>
-  <sv:node sv:name="hippo:translation">
-    <sv:property sv:name="jcr:primaryType" sv:type="Name">
-      <sv:value>hippo:translation</sv:value>
-    </sv:property>
-    <sv:property sv:name="hippo:language" sv:type="String">
-      <sv:value/>
-    </sv:property>
-    <sv:property sv:name="hippo:message" sv:type="String">
-      <sv:value>tree of tea</sv:value>
-    </sv:property>
   </sv:node>
 </sv:node>
