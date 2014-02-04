@@ -34,4 +34,52 @@
       <sv:value>jsp/bootstrap/header.jsp</sv:value>
     </sv:property>
   </sv:node>
+  <sv:node sv:name="rms.standard.main.carousel">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:containers" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:description" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/bootstrap/main/carousel.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="rms.standard.main.catchy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:containers" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:description" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/bootstrap/main/catchy.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="rms.standard.main.hero">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:containers" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:description" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/bootstrap/main/hero.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="rms.standard.main.itemlist">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:containers" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:description" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/bootstrap/main/itemlist.jsp</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>
