@@ -6,6 +6,11 @@
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:template</sv:value>
     </sv:property>
+    <sv:property sv:name="hst:containers" sv:type="String" sv:multiple="true">
+      <sv:value>header</sv:value>
+      <sv:value>main</sv:value>
+      <sv:value>footer</sv:value>
+    </sv:property>
     <sv:property sv:name="hst:renderpath" sv:type="String">
       <sv:value>jsp/layout/bootstrap.jsp</sv:value>
     </sv:property>
@@ -29,6 +34,9 @@
   <sv:node sv:name="rms.standard.header">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:description" sv:type="String">
+      <sv:value/>
     </sv:property>
     <sv:property sv:name="hst:renderpath" sv:type="String">
       <sv:value>jsp/bootstrap/header.jsp</sv:value>
